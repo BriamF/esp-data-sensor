@@ -12,7 +12,7 @@
   copies or substantial portions of the Software.
 */
 
-$servername = "localhost";
+$servername = "bnpyq0oo2tgtopk17hao-mysql.services.clever-cloud.com";
   
 // REPLACE with your Database name
 $dbname = "bnpyq0oo2tgtopk17hao";
