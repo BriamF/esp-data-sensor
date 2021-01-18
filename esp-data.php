@@ -13,14 +13,15 @@
 */
 
 $servername = "localhost";
-
+  
 // REPLACE with your Database name
-$dbname = "REPLACE_WITH_YOUR_DATABASE_NAME";
+$dbname = "bnpyq0oo2tgtopk17hao";
 // REPLACE with Database user
-$username = "REPLACE_WITH_YOUR_USERNAME";
+$username = "ug9wt5fc9omy84ly";
 // REPLACE with Database user password
-$password = "REPLACE_WITH_YOUR_PASSWORD";
-
+$password = "HggXoRU43UJEFW59mNaL";
+  
+  
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
